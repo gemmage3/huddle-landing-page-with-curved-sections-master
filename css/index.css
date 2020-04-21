@@ -1,0 +1,38 @@
+.home-section1{
+  justify-content: space-between;
+  text-align: center;
+  padding: 70px;
+}
+
+.home.main-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 75px;
+}
+
+.home-main-section .img-wrapper {
+  flex-grow: 1;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+
+}
+
+.home-main-section .screen-mockups {
+  align-items: center;
+  max-height: 40vh;
+  min-width: 20vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-left: 75px;
+}
+
+.home-section2{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 100px;
+}

@@ -89,5 +89,29 @@
   font-family: open-sans;
 }
 
+.user-section-container {
+  background-color: rgb(245, 251, 255);
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.user-section-text-box {
+  text-align: center;
+  padding-top: 200px;
+  padding-right: 75px;
+  padding-left: 75px;
+  color: grey;
+  font-family: open-sans;
+}
+
+.last-section{
+  justify-content: center;
+  text-align: center;
+  padding: 70px;
+  padding-left: 150px;
+  padding-bottom: 0px;
+}
+
 
 

@@ -110,7 +110,17 @@
   text-align: center;
   padding: 70px;
   padding-left: 150px;
-  padding-bottom: 0px;
+  padding-bottom: 50px;
+}
+
+.footer-left {
+  padding: 50px;
+  color: white;
+}
+
+.footer-right{
+  padding: 50px;
+  color: white;
 }
 
 
